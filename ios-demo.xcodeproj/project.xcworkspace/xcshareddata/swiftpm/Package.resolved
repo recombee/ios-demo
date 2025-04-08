@@ -1,0 +1,24 @@
+{
+  "originHash" : "0a6bf5b1087dc3a1a506fca2c8978ce8280c69ee03658eb2b33880d3105ec97a",
+  "pins" : [
+    {
+      "identity" : "anycodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Flight-School/AnyCodable.git",
+      "state" : {
+        "revision" : "862808b2070cd908cb04f9aafe7de83d35f81b05",
+        "version" : "0.6.7"
+      }
+    },
+    {
+      "identity" : "swift-api-client",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/recombee/swift-api-client.git",
+      "state" : {
+        "revision" : "feee587c9a873f9faf991ad961badb3736a6f543",
+        "version" : "5.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
