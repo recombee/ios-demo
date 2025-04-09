@@ -32,7 +32,7 @@ struct ItemDetailView: View {
             Picker(selection: $selection) {
                 Text("Interactions")
                     .tag(Selection.interactions)
-                Text("Item to item")
+                Text("Items to item")
                     .tag(Selection.recommendations)
             } label: {
                 Text("Select tab")
